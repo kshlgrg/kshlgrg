@@ -1,25 +1,64 @@
 <p align="center">
-  <img src="./assets/wanderer-art.jpg" alt="Celestial globe with clockwork" width="720">
+  <img src="./assets/celestial-map.jpg" alt="Albrecht Durer celestial map, northern hemisphere" width="760">
 </p>
 
-<p align="center"><sub><em>Celestial globe with clockwork</em>, Gerhard Emmoser, 1579. The Met Open Access / Public Domain, via Cosmos Public Work.</sub></p>
-
-# I BUILD STRANGE MACHINES FOR NO GOOD REASON.
+<p align="center"><sub><em>The Celestial Map - Northern Hemisphere</em>, Albrecht Durer, 1515. The Met Open Access / Public Domain, found through the Cosmos Public Work lane.</sub></p>
 
 ```text
-no roadmap.
-no throne.
-no algorithm to please.
-
-just curiosity,
-a terminal,
-and the next weird system calling from the dark.
+                 *
+            .         .        FIELD MANUAL / KSHLGRG
+       *        \   |   /      edition: curiosity-first
+                 \  |  /
+   ------- strange machines, built for no good reason -------
+                 /  |  \
+       .        /   |   \        no roadmap. no throne.
+            *         .          just signal, static, and questions.
 ```
 
-`Python / JavaScript / TypeScript / Rust / markets / agents / unfinished maps`
+# KSHLGRG
 
-### trails
+> savage little wanderer in the machinery.  
+> writing code because the unknown keeps leaving doors unlocked.
 
-[pythonpine](https://github.com/kshlgrg/pythonpine) - technical indicators and trading logic  
-[finda](https://github.com/kshlgrg/finda) - financial data pipes  
-[bigtest](https://github.com/kshlgrg/bigtest) - backtesting and strategy experiments
+## 00 / operating notes
+
+```txt
+mode        : curiosity over certainty
+terrain     : markets, agents, data pipes, old maps, weird interfaces
+languages   : Python / JavaScript / TypeScript / Rust
+constraint  : keep moving until the system talks back
+```
+
+## 01 / trails
+
+| route | artifact | why it exists |
+|---|---|---|
+| `indicators` | [pythonpine](https://github.com/kshlgrg/pythonpine) | Pine-style technical analysis in Python. |
+| `data` | [finda](https://github.com/kshlgrg/finda) | Financial data pipes with cache, fallback, and streams. |
+| `tests` | [bigtest](https://github.com/kshlgrg/bigtest) | Backtesting engines for dangerous little hypotheses. |
+
+<details>
+<summary><strong>02 / field doctrine</strong></summary>
+
+```txt
+do not polish the compass until you have crossed the desert.
+do not worship the stack.
+do not wait for permission from the map.
+
+build the probe.
+throw it into the dark.
+read what comes back.
+```
+
+</details>
+
+<details>
+<summary><strong>03 / current weather</strong></summary>
+
+```txt
+learning      : systems that trade, search, remember, and explain themselves
+collecting    : public-domain diagrams, machines, celestial charts, broken UI rituals
+avoiding      : performative productivity, beige portfolios, badges as personality
+```
+
+</details>
