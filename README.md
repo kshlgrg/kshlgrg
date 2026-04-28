@@ -1,64 +1,70 @@
 <p align="center">
-  <img src="./assets/celestial-map.jpg" alt="Albrecht Durer celestial map, northern hemisphere" width="760">
+  <img src="./assets/black-hole-dark-matter.gif" alt="NASA dark matter particles orbiting a black hole" width="760">
 </p>
 
-<p align="center"><sub><em>The Celestial Map - Northern Hemisphere</em>, Albrecht Durer, 1515. The Met Open Access / Public Domain, found through the Cosmos Public Work lane.</sub></p>
+<p align="center"><sub>dark matter circling the event horizon. NASA Goddard Scientific Visualization Studio. chosen because a quarter-life crisis deserves decent lighting.</sub></p>
 
 ```text
-                 *
-            .         .        FIELD MANUAL / KSHLGRG
-       *        \   |   /      edition: curiosity-first
-                 \  |  /
-   ------- strange machines, built for no good reason -------
-                 /  |  \
-       .        /   |   \        no roadmap. no throne.
-            *         .          just signal, static, and questions.
++------------------------------ KSHLGRG / FIELD DOC ------------------------------+
+| status     : alive, technically                                                  |
+| mood       : quarter-life crisis with a compiler                                  |
+| thesis     : curiosity is just anxiety with better documentation                  |
+| warning    : contains football takes, math flex, dark humor, and unshipped ideas  |
++---------------------------------------------------------------------------------+
 ```
 
-# KSHLGRG
+# strange machines, no warranty.
 
-> savage little wanderer in the machinery.  
-> writing code because the unknown keeps leaving doors unlocked.
+> i code like a wanderer checking locked doors in an abandoned observatory.  
+> sometimes the door opens. sometimes it asks for OAuth.
 
 ## 00 / operating notes
 
+| key | value |
+|---|---|
+| `mode` | curiosity over certainty |
+| `terrain` | markets, agents, data pipes, old maps, cursed interfaces |
+| `languages` | Python / JavaScript / TypeScript / Rust |
+| `football` | great ball knowledge, unfortunately not yet monetized |
+| `life` | quarter-life crisis, but make it reproducible |
+
+## 01 / little math flex
+
 ```txt
-mode        : curiosity over certainty
-terrain     : markets, agents, data pipes, old maps, weird interfaces
-languages   : Python / JavaScript / TypeScript / Rust
-constraint  : keep moving until the system talks back
+if chaos has structure, i want the eigenvectors.
+if the model is wrong, i still want the residuals.
+if xG says we cooked, i am spiritually unavailable for dissent.
 ```
 
-## 01 / trails
+## 02 / trails
 
-| route | artifact | why it exists |
+| route | artifact | field note |
 |---|---|---|
 | `indicators` | [pythonpine](https://github.com/kshlgrg/pythonpine) | Pine-style technical analysis in Python. |
 | `data` | [finda](https://github.com/kshlgrg/finda) | Financial data pipes with cache, fallback, and streams. |
 | `tests` | [bigtest](https://github.com/kshlgrg/bigtest) | Backtesting engines for dangerous little hypotheses. |
 
 <details>
-<summary><strong>02 / field doctrine</strong></summary>
+<summary><strong>03 / dark humor config</strong></summary>
 
 ```txt
-do not polish the compass until you have crossed the desert.
-do not worship the stack.
-do not wait for permission from the map.
-
-build the probe.
-throw it into the dark.
-read what comes back.
+hope              = deprecated
+panic             = default
+sleep             = optional dependency
+imposter_syndrome = installed globally
+production        = where confidence goes to become a postmortem
 ```
 
 </details>
 
 <details>
-<summary><strong>03 / current weather</strong></summary>
+<summary><strong>04 / scout report</strong></summary>
 
 ```txt
-learning      : systems that trade, search, remember, and explain themselves
-collecting    : public-domain diagrams, machines, celestial charts, broken UI rituals
-avoiding      : performative productivity, beige portfolios, badges as personality
+first touch       : clean enough
+vision            : sees the pass before the exception
+press resistance  : varies with caffeine
+finishing         : xG merchant allegations denied
 ```
 
 </details>
