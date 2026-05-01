@@ -68,3 +68,17 @@ finishing         : xG merchant allegations denied
 ```
 
 </details>
+
+<details>
+<summary><strong>05 / absent muse</strong></summary>
+
+```txt
+her hair smelled like rain on old wires.
+venus had a belly and the moon refused to explain itself.
+
+there is no her, obviously.
+just the mind inventing a witness
+so the loneliness has someone to perform for.
+```
+
+</details>
