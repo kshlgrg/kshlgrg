@@ -44,8 +44,7 @@ if xG says we cooked, i am spiritually unavailable for dissent.
 | `data` | [finda](https://github.com/kshlgrg/finda) | Financial data pipes with cache, fallback, and streams. |
 | `tests` | [bigtest](https://github.com/kshlgrg/bigtest) | Backtesting engines for dangerous little hypotheses. |
 
-<details>
-<summary><strong>03 / dark humor config</strong></summary>
+## 03 / dark humor config
 
 ```txt
 hope              = deprecated
@@ -55,10 +54,7 @@ imposter_syndrome = installed globally
 production        = where confidence goes to become a postmortem
 ```
 
-</details>
-
-<details>
-<summary><strong>04 / scout report</strong></summary>
+## 04 / scout report
 
 ```txt
 first touch       : clean enough
@@ -67,10 +63,7 @@ press resistance  : varies with caffeine
 finishing         : xG merchant allegations denied
 ```
 
-</details>
-
-<details>
-<summary><strong>05 / absent muse</strong></summary>
+## 05 / absent muse
 
 ```txt
 her hair smelled like rain on old wires.
@@ -80,5 +73,3 @@ there is no her, obviously.
 just the mind inventing a witness
 so the loneliness has someone to perform for.
 ```
-
-</details>
